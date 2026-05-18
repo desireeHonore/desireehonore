@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @desireehonore
-- 👀 I’m currently studying in Web Developnent and Design
+- 👀 I'm currently focusing my studies on Front-End Development and Digital Design
 - 🌱 I’m majoring in Emerging Media Studies with a minor in Computer Science
 - 💞️ I’m looking to collaborate on meaningful & innovative projects
 - 📫 You can reach me by email: honoredesiree@gmail.com 
